@@ -1,0 +1,37 @@
+# Ronz EV
+
+> Ronz EV is an electric vehicle dealer in Kasaragod district, Kerala, India, selling low-speed electric scooters that can be ridden without a driving licence or registration (top speed up to 25 km/h, motor up to 250 W).
+
+## Showrooms
+- Chengala Showroom: Vadhi Thoybha, Chengala, Kasaragod, Kerala 671541 (12.510194, 75.042944)
+- Melparamba Showroom: Bridgestone – The Tyre Shop, KSTP Road, Kattakal–Kainoth Road, Melparamba, Kasaragod, Kerala 671317 (12.461928, 75.011492)
+- Areas served: Chengala, Melparamba, Kasaragod, Cherkala, Vidyanagar, Chemnad, Kalanad, Bovikkanam, Badiadka, Uduma, Bekal, Kumbla, Kanhangad
+- Email: info@ronzev.com
+
+## Key facts
+- No driving licence, RTO registration or number plate needed for the low-speed models
+- Range: over 120 km (lithium-ion), over 80 km (lead-acid) per charge
+- Charging: 3–4 hours (lithium-ion), 4–5 hours (lead-acid) from a home socket
+- 18-month battery warranty, anti-theft alarm with remote, cruise control, LED headlamp
+- Suitable for students, seniors and short daily trips
+
+## Pages
+- [Home](https://ronzev.com/): overview, showrooms and FAQ about riding without a licence
+- [About](https://ronzev.com/about): who we are, what we offer, who our scooters are for
+- [All models](https://ronzev.com/products): every scooter with specifications
+- [Contact & directions](https://ronzev.com/contact): both showroom addresses and maps
+
+## Models
+Terius, Terius+, Loen Legend, Eco Rider, GX250, Greenova, Greenova 100, Verno. Full specifications: https://ronzev.com/products/{model}, e.g. https://ronzev.com/products/terius-plus
+
+## Frequently asked questions
+- Q: Do I need a driving licence to ride a Ronz EV scooter?
+  A: No. Ronz EV low-speed models have a top speed of up to 25 km/h and a motor rated up to 250 W, which are exempt from a driving licence under Indian motor vehicle rules.
+- Q: Does a no licence electric scooter need registration or a number plate?
+  A: No. Low-speed electric scooters within the 25 km/h and 250 W limits do not need RTO registration or a number plate.
+- Q: Where can I buy a no licence electric scooter in Kasaragod?
+  A: At Ronz EV: Vadhi Thoybha, Chengala 671541, or Bridgestone – The Tyre Shop, KSTP Road, Melparamba 671317.
+- Q: Who can ride a no licence scooter?
+  A: Students, seniors, homemakers and anyone making short daily trips who does not hold a licence.
+- Q: How long does charging take?
+  A: About 3–4 hours for lithium-ion and 4–5 hours for lead-acid, from a regular home socket.
