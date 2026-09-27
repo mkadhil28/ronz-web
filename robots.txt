@@ -20,4 +20,4 @@ User-agent: CCBot
 User-agent: Meta-ExternalAgent
 Allow: /
 
-Sitemap: https://ronzev.com/sitemap.xml
+Sitemap: https://ronzev.in/sitemap.xml

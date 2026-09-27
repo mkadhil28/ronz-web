@@ -16,13 +16,13 @@
 - Suitable for students, seniors and short daily trips
 
 ## Pages
-- [Home](https://ronzev.com/): overview, showrooms and FAQ about riding without a licence
-- [About](https://ronzev.com/about): who we are, what we offer, who our scooters are for
-- [All models](https://ronzev.com/products): every scooter with specifications
-- [Contact & directions](https://ronzev.com/contact): both showroom addresses and maps
+- [Home](https://ronzev.in/): overview, showrooms and FAQ about riding without a licence
+- [About](https://ronzev.in/about): who we are, what we offer, who our scooters are for
+- [All models](https://ronzev.in/products): every scooter with specifications
+- [Contact & directions](https://ronzev.in/contact): both showroom addresses and maps
 
 ## Models
-Terius, Terius+, Loen Legend, Eco Rider, GX250, Greenova, Greenova 100, Verno. Full specifications: https://ronzev.com/products/{model}, e.g. https://ronzev.com/products/terius-plus
+Terius, Terius+, Loen Legend, Eco Rider, GX250, Greenova, Greenova 100, Verno. Full specifications: https://ronzev.in/products/{model}, e.g. https://ronzev.in/products/terius-plus
 
 ## Frequently asked questions
 - Q: Do I need a driving licence to ride a Ronz EV scooter?
